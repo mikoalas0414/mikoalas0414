@@ -14,12 +14,11 @@
   </span>
   <span align='left'>
     <span>
-     I have rich experience in many different areas of software engineering.
-I like to build amazing and awesome things with my creative diverse knowledge.
-These include Frontend development, Backend development, infrastructure, databases and more
-using modern Javascript, Typescript, Python, PHP, Ruby frameworks and fantastic UI frameworks. 
-Over last 2 years, I have mainly focused on Blockchain technologies - developing Frontend with Web3/
-ether.js/Solidity, Token and Coin development.
+      - 7 years of experience as Web Developer
+      - 1 year of experience as Blockchain Developer with React/Next.js, Web3, Blockchain and Smart Contracts
+      - 4 years of experience as Front-End Developer with React
+      - 4 years of experience as Full Stack Developer with React, Node/Express, Flask/Django
+      Over last 1 years, I have mainly focused on Blockchain technologies - developing DApps(DeFi, DEX) with React, Web3.
     </span>
     </span><br/></br>
     I have specialized in </br>
