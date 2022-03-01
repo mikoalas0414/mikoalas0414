@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/starbinna"><img src="https://readme-typing-svg.herokuapp.com/?lines=React%20Web3%20%20TypeScript;Web%20and%20mobile%20master;7%2B%20years%20of%20experience;High%20quality%20code&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/starbinna"><img src="https://readme-typing-svg.herokuapp.com/?lines=React%20%2B%20Web3%20%2B%20TypeScript;7%20years%20of%20experience;High%20quality%20code&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <br />
 <div>
