@@ -23,14 +23,18 @@ ether.js/Solidity, Token and Coin development.
     </span>
     </span><br/></br>
     I have specialized in </br>
-     - Fronend : Angular, React, Redux, Vue, Vuex, Javascript, HTML, CSS, Bootstrap, Typescript, NextJS </br>                  
-     - Backend : Node.js, Laravel, Django, .NET, Golang </br>
-     - Blockchains: Ethereum (Solidity, Web3, Truffle, ERC20, ICO), Tron (TRX, TRC10, TRC20 Dapps), Solana, Binance Chain </br>
-     - Databases: MongoDB, Redis, PostgreSQL, MySQL </br></br>     
+     - Fronend : React/Next.js, Material UI, Tilewind CSS, React-Bootstrap, styled-components, Recharts, RxJS, Web3 </br>                  
+     - Backend : Node/Express, Flask/Django, CI/Yii, RESTful API, GraphQL </br>          
+     - Cloud platforms : Firebase, AWS </br>          
+     - Databases : MySQL, PostgreSQL, MongoDB </br>     
+     - Third-party Integrations : OAuth2, Paypal, Stripe, Google Maps API </br>     
+     - Programming Languages : HTML/CSS/JS, ES6/TypeScript/Sass, PHP, Python, MySQL/NoSQL </br>     
+     - Trends : Blockchain, Smart Contracts </br> 
+     - Others : Git, Docker </br></br>
 Contact me</br>
-- Phone No : +1 847 603 4713</br>
-- Skype : live:.cid.e6b01849ae211a4c</br>
-- Email : michaelakita1001@gmail.com</br>
+- Phone No : +1 443 684 2437</br>
+- Skype : live:.cid.a535319cbde0f6c9</br>
+- Email : mikolas0414@gmail.com</br>
   </div>
   
   <hr>
