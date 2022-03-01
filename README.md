@@ -14,16 +14,11 @@
   </span>
   <span align='left'>
     <span>
-      - 7 years of experience as Web Developer
-      
-      - 1 year of experience as Blockchain Developer with React/Next.js, Web3, Blockchain and Smart Contracts
-      
-      - 4 years of experience as Front-End Developer with React
-      
-      - 4 years of experience as Full Stack Developer with React, Node/Express, Flask/Django
-      
-      Over last 1 years, I have mainly focused on Blockchain technologies - developing DApps(DeFi, DEX) with React, Web3.
-    </span>
+      - 7 years of experience as Web Developer      <br />
+      - 1 year of experience as Blockchain Developer with React/Next.js, Web3, Blockchain and Smart Contracts      <br />
+      - 4 years of experience as Front-End Developer with React      <br />
+      - 4 years of experience as Full Stack Developer with React, Node/Express, Flask/Django      <br />
+      Over last 1 years, I have mainly focused on Blockchain technologies - developing DApps(DeFi, DEX) with React, Web3.<br />
     </span><br/></br>
     I have specialized in </br>
      - Fronend : React/Next.js, Material UI, Tilewind CSS, React-Bootstrap, styled-components, Recharts, RxJS, Web3 </br>                  
