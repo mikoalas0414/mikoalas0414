@@ -22,7 +22,7 @@
     </span><br/></br>
     I have specialized in </br>
      - Fronend : React/Next.js, Material UI, Tilewind CSS, React-Bootstrap, styled-components, Recharts, RxJS, Web3 </br>                  
-     - Backend : Node/Express, Flask/Django, CI/Yii, RESTful API, GraphQL </br>          
+     - Backend : Node/Express, Flask/Django, RESTful API, GraphQL </br>          
      - Cloud platforms : Firebase, AWS </br>          
      - Databases : MySQL, PostgreSQL, MongoDB </br>     
      - Third-party Integrations : OAuth2, Paypal, Stripe, Google Maps API </br>     
