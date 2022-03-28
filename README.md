@@ -30,7 +30,6 @@
      - Trends : Blockchain, Smart Contracts </br> 
      - Others : Git, Docker </br></br>
 Contact me</br>
-- Phone No : +1 443 684 2437</br>
 - Skype : live:.cid.a535319cbde0f6c9</br>
 - Email : mikolas0414@gmail.com</br>
   </div>
