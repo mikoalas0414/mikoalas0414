@@ -30,7 +30,7 @@
      - Trends : Blockchain, Smart Contracts </br> 
      - Others : Git, Docker </br></br>
 Contact me</br>
-- Skype : live:.cid.a535319cbde0f6c9</br>
+- Skype : live:.cid.d27127d2970dcbf9</br>
 - Email : mikolas0414@gmail.com</br>
   </div>
   
