@@ -28,7 +28,7 @@
      - Third-party Integrations : OAuth2, Paypal, Stripe, Google Maps API </br>     
      - Programming Languages : HTML/CSS/JS, ES6/TypeScript/Sass, PHP, Python, MySQL/NoSQL </br>     
      - Blockchain : Bitcoin, Smart Contracts </br> 
-     - Others : Git(daily commits/updates), Docker </br></br>
+     - Others : Git, Docker </br></br>
 Contact me</br>
 - Skype : live:.cid.d27127d2970dcbf9</br>
 - Email : mikolas0414@gmail.com</br>
