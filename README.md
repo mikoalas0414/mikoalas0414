@@ -1,6 +1,6 @@
 <p align="left">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-  Blockchain, Full Stack Web Developer
+  Blockchain, Full Stack Developer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </p>
 
@@ -14,21 +14,21 @@
   </span>
   <span align='left'>
     <span>
-      - 7 years of experience as Web Developer      <br />
+      - 7 years of experience as Web & Mobile Developer      <br />
       - 1 year of experience as Blockchain Developer with React/Next.js, Web3, Blockchain and Smart Contracts      <br />
       - 4 years of experience as Front-End Developer with React      <br />
       - 4 years of experience as Full Stack Developer with React, Node/Express, Flask/Django      <br />
       Over last 1 years, I have mainly focused on Blockchain technologies - developing DApps(DeFi, DEX) with React, Web3.<br />
     </span><br/></br>
     I have specialized in </br>
-     - Fronend : React/Next.js, Material UI, Tilewind CSS, React-Bootstrap, styled-components, Recharts, RxJS, Web3 </br>                  
+     - Fronend : React.js, React Native, Next.js, Material UI, Tilewind CSS, React-Bootstrap, styled-components, Recharts, RxJS, Web3 </br>                  
      - Backend : Node/Express, Flask/Django, RESTful API, GraphQL </br>          
      - Cloud platforms : Firebase, AWS </br>          
      - Databases : MySQL, PostgreSQL, MongoDB </br>     
      - Third-party Integrations : OAuth2, Paypal, Stripe, Google Maps API </br>     
      - Programming Languages : HTML/CSS/JS, ES6/TypeScript/Sass, PHP, Python, MySQL/NoSQL </br>     
-     - Trends : Blockchain, Smart Contracts </br> 
-     - Others : Git, Docker </br></br>
+     - Blockchain : Bitcoin, Ethereum, Smart Contracts, Solidity </br> 
+     - Others : Git(daily commits/updates), Docker </br></br>
 Contact me</br>
 - Skype : live:.cid.d27127d2970dcbf9</br>
 - Email : mikolas0414@gmail.com</br>
