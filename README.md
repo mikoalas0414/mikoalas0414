@@ -14,20 +14,20 @@
   </span>
   <span align='left'>
     <span>
-      - 7 years of experience as Web & Mobile Developer      <br />
-      - 1 year of experience as Blockchain Developer with React/Next.js, Web3, Blockchain and Smart Contracts      <br />
+      - 7 years of experience as Software Engineer      <br />
+      - 1 year of experience as Blockchain Developer with React, Web3, Blockchain and Smart Contracts      <br />
       - 4 years of experience as Front-End Developer with React      <br />
       - 4 years of experience as Full Stack Developer with React, Node/Express, Flask/Django      <br />
-      Over last 1 years, I have mainly focused on Blockchain technologies - developing DApps(DeFi, DEX) with React, Web3.<br />
+      Over last 2 years, I have mainly focused on Blockchain technologies - developing DApps(NFT minting/marketplace, DeFi, DEX) with React, Web3.<br />
     </span><br/></br>
     I have specialized in </br>
-     - Fronend : React.js, React Native, Next.js, Material UI, Tilewind CSS, React-Bootstrap, styled-components, Recharts, RxJS, Web3 </br>                  
+     - Fronend : React.js, React Native, Next.js, Material UI, Tilewind CSS, React-Bootstrap, styled-components, Recharts, react-chartjs2, RxJS, Web3 </br>                  
      - Backend : Node/Express, Flask/Django, RESTful API, GraphQL </br>          
-     - Cloud platforms : Firebase, AWS </br>          
      - Databases : MySQL, PostgreSQL, MongoDB </br>     
+     - Cloud platforms : Firebase, AWS </br>          
      - Third-party Integrations : OAuth2, Paypal, Stripe, Google Maps API </br>     
      - Programming Languages : HTML/CSS/JS, ES6/TypeScript/Sass, PHP, Python, MySQL/NoSQL </br>     
-     - Blockchain : Bitcoin, Ethereum, Smart Contracts, Solidity </br> 
+     - Blockchain : Bitcoin, Smart Contracts </br> 
      - Others : Git(daily commits/updates), Docker </br></br>
 Contact me</br>
 - Skype : live:.cid.d27127d2970dcbf9</br>
@@ -58,9 +58,6 @@ Contact me</br>
       <a href="https://tailwindcss.com/" target="_blank"> 
         <code><img alt="tailwind" width="50" height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/></code>
       </a>
-      <a href="https://www.gatsbyjs.com/" target="_blank">
-        <code><img alt="gatsby" width="50" height="50" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg"/></code>
-      </a> 
       <code><img alt="React" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" /></code>
       <code><img alt="Express.js" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" /></code>
       <code><img  alt="Docker" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" /></code>
@@ -69,10 +66,7 @@ Contact me</br>
       <a href="https://redux.js.org" target="_blank">
         <code><img alt="Redux" height="50" width="50"  src="https://profilinator.rishav.dev/skills-assets/redux-original.svg"  /></code>
       </a>
-      <a href="https://redis.io" target="_blank">
-        <code><img alt="redis" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"/></code>
-      </a>
-       <a href="https://firebase.google.com/" target="_blank"> 
+      <a href="https://firebase.google.com/" target="_blank"> 
          <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/></code>
       </a>
       <a href="https://www.chartjs.org" target="_blank"> 
