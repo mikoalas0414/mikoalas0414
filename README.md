@@ -14,14 +14,14 @@
   </span>
   <span align='left'>
     <span>
-      - 7 years of experience as Software Engineer      <br />
-      - 1 year of experience as Blockchain Developer with React, Web3, Blockchain and Smart Contracts      <br />
-      - 4 years of experience as Front-End Developer with React      <br />
-      - 4 years of experience as Full Stack Developer with React, Node/Express, Flask/Django      <br />
-      Over last 2 years, I have mainly focused on Blockchain technologies - developing DApps(NFT minting/marketplace, DeFi, DEX) with React, Web3.<br />
+      - 13 years of experience as Software Engineer      <br />
+      - 2 year of experience as Blockchain Developer with React/Vue, Web3, Blockchain and Smart Contracts      <br />
+      - 4 years of experience as Front-End Developer with React/Vue      <br />
+      - 4 years of experience as Full Stack Developer with React/Vue, Node/Express, Flask/Django      <br />
+      Over last 2 years, I have mainly focused on Blockchain technologies - developing DApps(NFT minting/marketplace, DeFi, DEX) with React/Vue, Web3.<br />
     </span><br/></br>
     I have specialized in </br>
-     - Fronend : React.js, React Native, Next.js, Material UI, Tilewind CSS, React-Bootstrap, styled-components, Recharts, react-chartjs2, RxJS, Web3 </br>                  
+     - Fronend : React.js, React Native, Next.js, Vue.js, Nuxt.js, Material UI, Tilewind CSS, React-Bootstrap, styled-components, Recharts, react-chartjs2, RxJS, Web3 </br>                  
      - Backend : Node/Express, Flask/Django, RESTful API, GraphQL </br>          
      - Databases : MySQL, PostgreSQL, MongoDB </br>     
      - Cloud platforms : Firebase, AWS </br>          
