@@ -14,23 +14,23 @@
   </span>
   <span align='left'>
     <span>
-      - 13 years of experience as Software Engineer      <br />
-      - 3 year of experience as Blockchain Developer with Web3, Blockchain and Smart Contracts      <br />
-      - 5 years of experience as Front-End Developer with React/Vue      <br />
-      - 5 years of experience as Full Stack Developer with React/Vue, Node/Express, Flask/Django      <br />
-      Over last 3 years, I have mainly focused on Blockchain technologies - developing DApps(NFT minting/marketplace, DeFi, DEX) with React/Vue, Web3.<br />
+      - 12 years of experience as Senior Software Engineer      <br />
+      - 3 years of experience as Algorithmic Trading Developer with MetaTrader 4/5, NinjaTrader 7/8, Thinkorswim, TradingView, TradeStation      <br />
+      - 3 years of experience as Blockchain Developer with Web3, Blockchain and Smart Contracts      <br />
+      - 12 years of experience as Full Stack Developer with React/Vue, Node/Express, Flask/Django      <br />
+      Over last 3 years, I have mainly focused on Trading Automation - developing custom indicators, trading strategies and bots.<br />
     </span><br/></br>
     I have specialized in </br>
      - Fronend : React.js, React Native, Next.js, Vue.js, Nuxt.js, Material UI, Tilewind CSS, React-Bootstrap, styled-components, Recharts, react-chartjs2, RxJS, Web3 </br>                  
      - Backend : Node/Express, Flask/Django, RESTful API, GraphQL </br>          
      - Databases : MySQL, PostgreSQL, MongoDB </br>     
      - Cloud platforms : Firebase, AWS </br>          
+     - Trading platforms : MetaTrader 4/5, NinjaTrader 7/8, Thinkorswim, TradingView, TradeStation </br>          
      - Third-party Integrations : OAuth2, Paypal, Stripe, Google Maps API </br>     
-     - Programming Languages : HTML/CSS/JS, ES6/TypeScript/Sass, PHP, Python, MySQL/NoSQL </br>     
+     - Programming Languages : HTML/CSS/JS, ES6/TypeScript/Sass, C++, C#, PHP, Python, Pine Script, thinkScript, MySQL/NoSQL </br>     
      - Blockchain : Bitcoin, Smart Contracts </br> 
      - Others : Git, Docker </br></br>
 Contact me</br>
-- Skype : live:.cid.d27127d2970dcbf9</br>
 - Email : mikolas0414@gmail.com</br>
   </div>
   
